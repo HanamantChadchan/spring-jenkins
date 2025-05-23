@@ -19,6 +19,8 @@ class JenkinsdemoApplicationTests {
 	private void assertEquals(boolean b, boolean c) {
 		// TODO Auto-generated method stub
 		logger.info("Test case executing....");
+		logger.info("Test case executing second commit....");
+
 		
 	}
 
