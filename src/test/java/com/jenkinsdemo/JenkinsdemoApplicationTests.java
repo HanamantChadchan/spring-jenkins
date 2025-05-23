@@ -20,6 +20,9 @@ class JenkinsdemoApplicationTests {
 		// TODO Auto-generated method stub
 		logger.info("Test case executing....");
 		logger.info("Test case executing second commit....");
+		logger.info("Test case executing 3rd commit....");
+
+		
 
 		
 	}
